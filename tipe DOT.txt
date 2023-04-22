@@ -1,0 +1,15 @@
+1)	Octobre: Recherche de document portant sur la simulation de foule, puis concentration sur la représentation microscopique à force sociale.
+
+2)	Novembre: Mise en groupe avec un camarade. Il a donc fallut mettre en commun et expliquer les avancées effectuées jusqu'à présent.
+
+3)	Fin Novembre: Simulation par descente du gradient, puis rencontre du problème de minimum local.
+
+4)	Décembre: Recherche d'alternatives permettant de répondre à ce problème. Recherche de nouveaux documents.
+
+5)	Janvier: Étude de l'algorithme d'Uzawa.
+
+6)	Fin Janvier: Mise en place d'objectifs précis et d'un plan de travail. Fixation de l'objectif final: prise en compte des distanciations sociales.
+
+7)	Février: Réorganisation et nettoyage de l'ensemble des programmes déjà écrits.
+
+8)	Mars-Mai: Implémentation de l'algorithme d'Uzawa puis prise en compte des distanciations sociales.
